@@ -1,0 +1,147 @@
+{
+	"kullanicilar": [
+		"905111111111",
+		"905222222222",
+		"905333333333",
+		"905444444444",
+		"905555555555"
+	],
+	"kullaniciDetay": {
+		"905111111111": {
+			"ad": "üye 1",
+			"soyad": "üye 1",
+			"kayitTarihi": "1580611530",
+			"profil": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+		},
+		"905222222222": {
+			"ad": "üye 2",
+			"soyad": "üye 2",
+			"kayitTarihi": "1580611530",
+			"profil": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+		},
+		"905333333333": {
+			"ad": "üye 3",
+			"soyad": "üye 3",
+			"kayitTarihi": "1580611530",
+			"profil": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+		},
+		"905444444444": {
+			"ad": "üye 4",
+			"soyad": "üye 4",
+			"kayitTarihi": "1580611530",
+			"profil": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+		},
+		"905555555555": {
+			"ad": "üye 5",
+			"soyad": "üye 5",
+			"kayitTarihi": "1580611530",
+			"profil": "https://www.jodilogik.com/wordpress/wp-content/uploads/2016/05/people-1.png"
+		}
+	},
+	"durumlar": {
+		"905111111111": [
+			{
+				"tip": 0,
+				"data": "https://i.ytimg.com/vi/S6tXe8iafgo/maxresdefault.jpg",
+				"baslik": "ne güzel bir durum",
+				"eklenmeTarih": "1580611530"
+			},
+			{
+				"tip": 2,
+				"data": {
+					"arkaRenk": "#4287f5",
+					"yazi": "ben bir durum yazısıyım"
+				},
+				"baslik": "",
+				"eklenmeTarih": "1580611530"
+			}
+		]
+	},
+	"sohbetler": {
+		"905111111111": [
+			{
+				"kimle": "905333333333",
+				"sohbetId": "905111111111-905333333333"
+			},
+			{
+				"kimle": "905222222222",
+				"sohbetId": "905111111111-905222222222"
+			}
+		],
+		"905222222222": [
+			{
+				"kimle": "905111111111",
+				"sohbetId": "905111111111-905222222222"
+			}
+		],
+		"905333333333": [
+			{
+				"kimle": "905111111111",
+				"sohbetId": "905111111111-905333333333"
+			}
+		]
+	},
+	"sohbetlerDetay": {
+		"905111111111-905222222222": [
+			{
+				"tarih": "1580611530",
+				"mesaj": "Merhaba, nasılsındflkgmdflkgdfl",
+				"medyaTip": 0,
+				"medyaUrl": "",
+				"gonderen": "905111111111",
+				"silinme": {
+					"durum": 1,
+					"tip": 1,
+					"silen": "905111111111",
+					"tarih": "1580611530"
+				}
+			},
+			{
+				"tarih": "1580611530",
+				"mesaj": "Merhaba, nasılsın?",
+				"medyaTip": 0,
+				"medyaUrl": "",
+				"gonderen": "905111111111",
+				"silinme": {
+					"durum": 0,
+					"silen": ""
+				}
+			},
+			{
+				"tarih": "1580611530",
+				"mesaj": "Hey cevap ver! 😬",
+				"medyaTip": 0,
+				"medyaUrl": "",
+				"gonderen": "905111111111"
+			},
+			{
+				"tarih": "1580611530",
+				"mesaj": "İyiyim.",
+				"medyaTip": 0,
+				"medyaUrl": "",
+				"gonderen": "905222222222"
+			},
+			{
+				"tarih": "1580611530",
+				"mesaj": "Sen nasılsın?",
+				"medyaTip": 0,
+				"medyaUrl": "",
+				"gonderen": "905222222222"
+			}
+		]
+	},
+	"aramaGecmisi": {
+		"905111111111": [
+			{
+				"aranan": "905444444444",
+				"tarih": "1580611530",
+				"aramaSuresi": "120000"
+			},
+			{
+				"aranan": "905555555555",
+				"tarih": "1580611530",
+				"aramaSuresi": "120000"
+			}
+		]
+	}
+}
